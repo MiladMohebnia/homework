@@ -3,6 +3,26 @@
 	{
 		"selected_items":
 		[
+			[
+				"so",
+				"sortedArray"
+			],
+			[
+				"in",
+				"inputList"
+			],
+			[
+				"i",
+				"inputList"
+			],
+			[
+				"b",
+				"bubbleSort"
+			],
+			[
+				"num",
+				"numebr"
+			]
 		]
 	},
 	"buffers":
@@ -44,10 +64,13 @@
 	],
 	"file_history":
 	[
+		"/home/milad/homework/test/1.testsyntax.tcl",
+		"/home/milad/homework/1.primeNumbersDetection.tcl",
+		"/home/milad/homework/2.sort.tcl"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -61,6 +84,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sort",
+			"inp",
+			"inputList",
+			"returnMax",
+			"bubbleSort",
+			"numebr",
+			"x",
+			"number"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -85,11 +116,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -122,7 +153,7 @@
 	"project": "sublime.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -136,12 +167,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 500.0,
+		"last_filter": "s",
 		"selected_items":
 		[
+			[
+				"s",
+				"~/homework/sublime.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -160,7 +195,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 259.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
