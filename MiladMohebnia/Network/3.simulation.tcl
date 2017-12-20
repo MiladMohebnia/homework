@@ -72,6 +72,7 @@ set ftp [new Application/FTP]
 $ftp set type_ FTP
 $ftp attach-agent $tcp
 
+#simulation construction
 $sim at 0.00001 "$cbr start"
 $sim at 1.2 "$cbr stop"
 
